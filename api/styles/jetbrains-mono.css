@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Iosevka SS05';
+	src: local('Iosevka SS05 Medium'),
+	     url('https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/font/iosevka/iosevka-ss05-medium.woff2') format('woff2');
+	font-display: swap;
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+    font-family: 'HYZhengYuan';
+    src: local('HYZhengYuan'),
+         url('https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/font/HYZhengYuan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
